@@ -26,6 +26,7 @@
             android:width="350dp"
             android:height="75dp"
             android:background="@color/red"
+            android:onClick="playC"
             />
 
         <Button
@@ -38,6 +39,7 @@
             android:width="320dp"
             android:height="75dp"
             android:background="@color/orange"
+            android:onClick="playD"
             />
 
         <Button
@@ -50,6 +52,7 @@
             android:width="290dp"
             android:height="75dp"
             android:background="@color/yellow"
+            android:onClick="playE"
             />
 
         <Button
@@ -62,6 +65,7 @@
             android:width="260dp"
             android:height="75dp"
             android:background="@color/green"
+            android:onClick="playF"
             />
 
         <Button
@@ -74,6 +78,7 @@
             android:width="230dp"
             android:height="75dp"
             android:background="@color/blue"
+            android:onClick="playG"
             />
 
         <Button
@@ -86,6 +91,7 @@
             android:width="200dp"
             android:height="75dp"
             android:background="@color/purple"
+            android:onClick="playA"
             />
 
     </LinearLayout>
